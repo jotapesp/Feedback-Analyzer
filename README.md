@@ -22,7 +22,7 @@ The file containing the feedbacks scores and comments to be analyzed should be a
 
 (PT-BR)
 Para rodar o programa, abra o terminal e use o comando
-`python fbapp.py configuracoes` para ajustar as preferências e a chave do OpenAI API (caso não tenha uma chave, pode deixar em branco para usar a default, mas ela é uma chave de teste e pode estar expirada). Depois disso, o programa pode ser rodado usando o comando `python fbapp.py nome-do-arquivo-csv/link-para-baixar-o-arquivo`.
+`python fbapp.py configuracoes` para ajustar as preferências e a chave do OpenAI API (caso não tenha uma chave, pode deixar em branco para usar a default, mas ela é uma chave de teste e pode estar expirada). Depois disso, o programa pode ser rodado usando o comando `python fbapp.py nome-do-arquivo-csv/link-para-baixar-o-arquivo`.<br>
 ATENÇÃO!<br>
 * Caso escolha passar o nome do arquivo na linha de comando, o arquivo deve estar localizado na mesma pasta que o arquivo `fbapp.py`.
 * Caso prefira passar o link do arquivo a ser baixado e analisado, o link deve estar completo, por exemplo: `https://https://drive.google.com/uc?id={file_id}`
