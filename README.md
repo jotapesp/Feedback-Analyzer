@@ -51,4 +51,4 @@ O programa gerará um arquivo PNG (`nps_chart.png`) contendo o gráfico NPS e um
 
 The dependencies are listed in the requirements.txt file linked below.
 
-* [requirements.txt](https://github.com/jotapesp/](https://github.com/jotapesp/Feedback-Analyzer/blob/main/requirements.txt)https://github.com/jotapesp/Feedback-Analyzer/blob/main/requirements.txt)
+* [requirements.txt](https://github.com/jotapesp/Feedback-Analyzer/blob/main/requirements.txt)
